@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://ik.imagekit.io/scriptsledge/Winter_Villager_Dark.png"  />
+  <img height="150" src="https://ik.imagekit.io/scriptsledge/scriptsledge.png?updatedAt=1737564012056"  />
 </div>
 
 ###
