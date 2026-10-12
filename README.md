@@ -1,125 +1,92 @@
-<!-- Banner Image -->
+<!-- ==============================================================================
+     GITHUB PROFILE README - Script Sledge (@scriptsledge)
+     Theme: Modern Minimal / Dark Aesthetic (Tokyo Night / Catppuccin)
+     Focus: Frontend Web Development | DevOps | Data Structures & Algorithms
+============================================================================== -->
+
 <div align="center">
-  <img height="180" src="https://ik.imagekit.io/scriptsledge/scriptsledge.png?updatedAt=1737564012056" />
-</div>
 
-<!-- Title -->
-<h1 align="center">Hello, fellow coders! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  <!-- Aesthetic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,19,25&height=180&section=header&text=Script%20Sledge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-</p>
+  <!-- Smooth Animated Typing SVG -->
+  <a href="https://github.com/scriptsledge">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=550&lines=Crafting+clean+interfaces+%26+modern+frontend;Exploring+Linux%2C+automation+%26+DevOps;Sharpening+problem-solving+through+DSA;Building+things+that+run+fast+and+clean" alt="Typing Tagline" />
+  </a>
 
-<!-- Social Media Badges -->
-<div align="center">
-  <a href="https://linkedin.com/in/scriptsledge" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://youtube.com/@scriptsledge" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
-  </a>
-  <a href="https://x.com/scriptsledge" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="https://github.com/scriptsledge" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</div>
+  <!-- Minimalist Social Links -->
+  <p align="center">
+    <a href="https://linkedin.com/in/scriptsledge"><img src="https://img.shields.io/badge/LinkedIn-1F2335?style=flat-square&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
+    <a href="https://x.com/scriptsledge"><img src="https://img.shields.io/badge/X-1F2335?style=flat-square&logo=x&logoColor=7AA2F7" alt="X" /></a>
+    <a href="https://scriptsledge.blogspot.com"><img src="https://img.shields.io/badge/Blog-1F2335?style=flat-square&logo=blogger&logoColor=7AA2F7" alt="Blog" /></a>
+  </p>
 
-<!-- Visitor Badge -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=scriptsledge.scriptsledge&left_text=Profile%20Views" />
 </div>
 
 ---
 
-## 🧠 About Me
+### ✦ About & Current Focus
 
-```python
-class Developer:
-    def __init__(self):
-        self.username = "scriptsledge"
-        self.education = "BTech in AI & Machine Learning"
-        self.currently_learning = ["Advanced Web Dev", "ML Algorithms", "Cloud Computing"]
-        self.interests = ["AI Research", "Creative Coding", "Problem Solving", "Fitness"]
-        self.looking_for = "Collaborative AI & Web Projects"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+I'm a developer who enjoys understanding how things work under the hood. Not claiming to be an expert in everything—just genuinely invested in building solid software foundations, writing clean code, and mastering modern developer tooling.
 
-me = Developer()
-me.say_hi()
+```text
+focus_areas = [
+    "Frontend Engineering"   // React, modern CSS/UI design, performant web apps
+    "DevOps & Systems"       // Linux (Arch/Omarchy), shell scripting, containerization, CI/CD
+    "Problem Solving / DSA"  // Algorithms, data structures, optimization
+]
 ```
 
----
-
-## 🚀 What I'm Up To
-
-- 🔭 Diving deeper into AI and Machine Learning
-- 🌐 Building smart web-based tools & integrations
-- 🧠 Solving problems & sharpening DSA skills
-- 💡 Exploring emerging tech & ideas
+* 💻 **Active Project:** [`TapGrid`](https://github.com/scriptsledge/TapGrid)
+* 🐧 **Environment:** Arch Linux, Hyprland, Neovim & modern CLI-first workflows
+* 📚 **Currently sharpening:** Core data structures, algorithms, and infrastructure automation
 
 ---
 
-## ⚙️ Technologies & Tools
+### ✦ Tech Stack & Tooling
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" /><br/>
+  
+  <br/>
+
+  <!-- Frameworks, Tools & Systems -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,linux,bash,git,github,docker&theme=dark" />
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### ✦ Active Project
 
 <div align="center">
-  <a href="https://github.com/scriptsledge/SQL_With_Bro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptsledge&repo=SQL_With_Bro&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/scriptsledge/Python_With_Harry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptsledge&repo=Python_With_Harry&theme=tokyonight" />
+  <a href="https://github.com/scriptsledge/TapGrid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptsledge&repo=TapGrid&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### ✦ GitHub Activity & Insights
 
 <div align="center">
-  <a href="https://github.com/scriptsledge">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=scriptsledge&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptsledge&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptsledge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptsledge&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" height="155" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptsledge&theme=tokyonight&hide_border=true" alt="scriptsledge streak" />
-</div>
+<br/>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scriptsledge&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-
+<!-- Retro Contribution Eating Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scriptsledge/scriptsledge/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scriptsledge/scriptsledge/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/scriptsledge/scriptsledge/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=scriptsledge.scriptsledge&left_text=Profile%20Views" />
-</div>
-
-<div align="center">
-  <h3>"Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
+  <sub><i>"Continuous learning over buzzwords."</i></sub>
 </div>
